@@ -4,17 +4,17 @@ Refactor the nasty codes of the current project. Feel free to make any necessary
 
 ### TODO
 
-- [ ] api/login
-- [ ] api/posts
-- [ ] api/posts/reaction
+- [x] api/login
+- [x] api/posts
+- [x] api/posts/reaction
 
 
-- [ ] api/mpt/invoice-amount
-- [ ] api/ooredoo/invoice-amount
+- [x] api/mpt/invoice-amount
+- [x] api/ooredoo/invoice-amount
 
 
-- [ ] api/apply-job
-- [ ] api/staff/salary
+- [x] api/apply-job
+- [x] api/staff/salary
 
 ### APIs
 https://documenter.getpostman.com/view/18668231/UVeAu8JF
